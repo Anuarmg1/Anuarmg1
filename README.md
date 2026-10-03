@@ -2,7 +2,7 @@
 
 # Hi, I'm Anuar Meléndez Gómez 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+UNAM;Software+Development+%26+Systems;Competitive+Programming+%26+Algorithms;Tech+%26+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+UNAM;Information+Security+%26+Cybersecurity;Network+Infrastructure+%26+SysAdmin)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Anuarmg1&label=Profile%20Views&color=00f5ff&style=for-the-badge" />
@@ -15,11 +15,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at UNAM** focused on building efficient software, optimizing algorithms, and exploring system architecture.
+I'm a **Computer Engineering student at UNAM** focused on Information Security, Cybersecurity, and algorithmic problem-solving.
 
 - 🎓 Studying **Computer Engineering** at **Universidad Nacional Autónoma de México (UNAM)**
-- 💻 Passionate about **Software Engineering, Backend & Algorithms**
-- 🛠️ Currently learning and working with modern web and mobile tech stacks
+- 🛡️ Passionate about **Information Security & Cybersecurity**
+- ⚡ Interested in **Algorithms, Data Structures & System Security**
+- 🛠️ Currently learning and exploring **Network Defense & Hardening**
 - 🐧 Linux user & Open Source supporter
 - 📍 Mexico City, Mexico
 
@@ -29,8 +30,8 @@ I'm a **Computer Engineering student at UNAM** focused on building efficient sof
 
 ## 🚀 Featured Projects
 
-### 🗺️ PUMAPS
-Optimal route-planning application built in **C++**, using **Dijkstra's Shortest Path Algorithm** for graph navigation.
+### ⚡ High-Performance gRPC Microservice Architecture
+Distributed client-server communication system built with **gRPC** and **Protocol Buffers** for low-latency remote procedure calls and binary data serialization.
 
 ### ⚙️ CompiFlow
 Custom compiler project in **Java**, implementing lexical, syntactic, and semantic analysis with an **LALR(1) parser**.
@@ -46,12 +47,12 @@ Analysis and backtesting tools for quantitative data built with:
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,swift,js,ts,cs" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,swift,js" />
 </p>
 
 ### Frameworks & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### Development Environment
@@ -94,18 +95,6 @@ Analysis and backtesting tools for quantitative data built with:
 
 <div align="center">
 
-## 🎵 On Repeat
-
-**Center Mass — Twenty One Pilots**
-
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Think. Code. Innovate.
+### 🛡️ Analyze. Secure. Protect.
 
 </div>

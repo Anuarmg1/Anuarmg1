@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+UNAM;Information+Security+%26+Cybersecurity;Network+Infrastructure+%26+SysAdmin)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anuarmg1&label=Profile%20Views&color=00f5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Anuarmg1?color=8a2be2&label=Followers&style=for-the-badge" />
-</p>
 
 </div>
 
@@ -68,11 +64,6 @@ Analysis and backtesting tools for quantitative data built with:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anuarmg1&theme=dracula" width="95%"/>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuarmg1&theme=dracula" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anuarmg1&theme=dracula" width="45%"/>
-
 </div>
 
 ---
@@ -81,7 +72,7 @@ Analysis and backtesting tools for quantitative data built with:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anuar-melendez/" target="_blank">
+<a href="https://www.linkedin.com/in/anuar-meléndez-gómez-a59784357/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Anuar%20Mel%C3%A9ndez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
